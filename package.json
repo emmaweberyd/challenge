@@ -1,0 +1,22 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "This repository constitutes a solution to a programming challenge.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmaweberyd/challenge.git"
+  },
+  "author": "Emma Weberyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmaweberyd/challenge/issues"
+  },
+  "homepage": "https://github.com/emmaweberyd/challenge#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
